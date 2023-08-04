@@ -5,8 +5,8 @@ Here are my solutions to problems from the [Rosalind platform](https://rosalind.
 | ID | Title |Solution links  |
 |:---|:---|:---|
 | INI1 | Installing Python | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/VILLAGE/INI1.py) |
-| INI2 | Variables and Some Arithmetic |  |
-| INI3 | Strings and Lists |  |
-| INI4 | Conditions and Loops |  |
-| INI5 | Working with Files |  |
-| INI6 | Dictionaries |  |
+| INI2 | Variables and Some Arithmetic |[Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/VILLAGE/INI2.py)  |
+| INI3 | Strings and Lists |[Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/VILLAGE/INI3.py)  |
+| INI4 | Conditions and Loops |[Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/VILLAGE/INI4.py)  |
+| INI5 | Working with Files |[Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/VILLAGE/INI5.py)  |
+| INI6 | Dictionaries |[Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/VILLAGE/INI6.py)  |
