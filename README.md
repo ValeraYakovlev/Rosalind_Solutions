@@ -17,14 +17,14 @@ Solutions  7  /  7  ✅
 
 As tasks are solved, codes will be added to my repository and to this table.
 
-| ID | Title |  |
+| ID | Title | Solution links |
 |:---|:---|:---|
-| [DNA](https://rosalind.info/problems/dna/) | Counting DNA Nucleotides |  |
-| [RNA](https://rosalind.info/problems/rna/) | Transcribing DNA into RNA |  |
-| [REVC](https://rosalind.info/problems/revc/) | Complementing a Strand of DNA |  |
+| [DNA](https://rosalind.info/problems/dna/) | Counting DNA Nucleotides | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/DNA.py) |
+| [RNA](https://rosalind.info/problems/rna/) | Transcribing DNA into RNA | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/RNA.py) |
+| [REVC](https://rosalind.info/problems/revc/) | Complementing a Strand of DNA | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/REVC.py) |
 | [FIB](https://rosalind.info/problems/fib/) | Rabbits and Recurrence Relations |  |
 | [GC](https://rosalind.info/problems/gc/) | Computing GC Content |  |
-| [HAMM](https://rosalind.info/problems/hamm/) | Counting Point Mutations |  |
+| [HAMM](https://rosalind.info/problems/hamm/) | Counting Point Mutations | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/HAMM.py) |
 | [IPRB](https://rosalind.info/problems/iprb/) | Mendel's First Law | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/IPRB.py) |
 | [PROT](https://rosalind.info/problems/prot/) | Translating RNA into Protein | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/PROT.py) |
 | [SUBS](https://rosalind.info/problems/subs/) | Finding a Motif in DNA | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SUBS.py) |
