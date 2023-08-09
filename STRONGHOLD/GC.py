@@ -1,15 +1,17 @@
 from Bio import SeqIO
 
-
+# функция для подсчета GC-content для одной строки
 def GC_content(seq):
     count = 0
     for i in seq:
         if i == 'C' or i == 'G':
             count += 1
+    # переводим в проценты
     local_GC = (count / len(seq)) * 100
     return local_GC
 
 
+# читаем входные данные и записываем их в dictionary records
 records = {}
 r_path = '/Users/valerijakovlev/Desktop/inputs/rosalind_gc-4.txt'
 with open(r_path, 'r') as inp:
@@ -19,6 +21,7 @@ with open(r_path, 'r') as inp:
 global_GC = -1
 max_GC_id = ''
 
+# находим id последовательности с максимальным значением GC-content
 for i in records:
     if GC_content(records[i]) > global_GC:
         global_GC = GC_content(records[i])
