@@ -23,7 +23,7 @@ As tasks are solved, codes will be added to my repository and to this table.
 | [RNA](https://rosalind.info/problems/rna/) | Transcribing DNA into RNA | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/RNA.py) |
 | [REVC](https://rosalind.info/problems/revc/) | Complementing a Strand of DNA | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/REVC.py) |
 | [FIB](https://rosalind.info/problems/fib/) | Rabbits and Recurrence Relations |  |
-| [GC](https://rosalind.info/problems/gc/) | Computing GC Content |  |
+| [GC](https://rosalind.info/problems/gc/) | Computing GC Content | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/GC.py) |
 | [HAMM](https://rosalind.info/problems/hamm/) | Counting Point Mutations | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/HAMM.py) |
 | [IPRB](https://rosalind.info/problems/iprb/) | Mendel's First Law | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/IPRB.py) |
 | [PROT](https://rosalind.info/problems/prot/) | Translating RNA into Protein | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/PROT.py) |
