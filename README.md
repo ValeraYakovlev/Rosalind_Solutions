@@ -49,6 +49,7 @@ As tasks are solved, codes will be added to my repository and to this table.
 | [TRAN](https://rosalind.info/problems/tran/) | Transitions and Transversions | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/TRAN.py) |
 | [TREE](https://rosalind.info/problems/tree/) | Completing a Tree | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/TREE.py) |
 | [CORR](https://rosalind.info/problems/corr/) | Error Correction in Reads | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/CORR.py) |
+| [INOD](https://rosalind.info/problems/inod/) | Error Correction in Reads | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/INOD.py) |
 | [KMER](https://rosalind.info/problems/kmer/) | k-Mer Composition | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/KMER.py) |
 | [KMP](https://rosalind.info/problems/kmp/) | Speeding Up Motif Finding | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/KMP.py) |
 | [LCSQ](https://rosalind.info/problems/lcsq/) | Finding a Shared Spliced Motif | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/LCSQ.py) |
