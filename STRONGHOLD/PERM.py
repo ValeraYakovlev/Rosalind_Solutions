@@ -13,7 +13,6 @@ for i in range(a):
 # при помощи сторонней библиотеки делаем всевозможные переставления
 c = itertools.permutations(b)
 
-# разобраться как это работает
 for i, j in enumerate(list(c)):
     permutation = ''
     for item in j:

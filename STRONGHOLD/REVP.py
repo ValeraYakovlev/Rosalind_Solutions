@@ -1,20 +1,19 @@
+from Bio import SeqIO
+
+# путь до входного файла
+r_path = 'path'
 massive = {}
-code = {'A':'T', 'C':'G', 'G':'C', 'T':'A'}
 
-
-# читаем FASTA файл, конец ввода - 'ъ'
+# читаем FASTA файл
 def read_FASTA():
-    count = -1
-    while 1:
-        a = str(input())
-        if a == 'ъ':
-            break
-        else:
-            if 'Rosalind' in a:
-                count += 1
-                massive[count] = ''
-            else:
-                massive[count] += a
+    c = 0
+    with open(r_path, "r") as fa:
+        for seq_record in SeqIO.parse(fa, "fasta"):
+            massive[c] = str(seq_record.seq)
+            c += 1
+
+
+code = {'A':'T', 'C':'G', 'G':'C', 'T':'A'}
 
 # переодим type reversed -> в str
 def find_reverse(s):

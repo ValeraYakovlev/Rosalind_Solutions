@@ -1,3 +1,6 @@
+from Bio import SeqIO
+# путь до входного файла
+r_path = 'path'
 massive = {}
 
 translater = {"UUU": "F", "CUU": "L", "AUU": "I", "GUU": "V",
@@ -18,27 +21,19 @@ translater = {"UUU": "F", "CUU": "L", "AUU": "I", "GUU": "V",
               "UGG": "W", "CGG": "R", "AGG": "R", "GGG": "G"}
 
 
+# читаем FASTA файл
 def read_FASTA():
-    pre_RNA = ''
-    count = -1
-    while 1:
-        a = str(input())
-        if a == 'ъ':
-            break
-        else:
-            # записываем RNA
-            if 'Rosalind' in a:
-                count += 1
-                if count != 0: massive[count] = ''
-            # добавляем интроны в массив
-            else:
-                if count == 0: pre_RNA += a
-                else: massive[count] += a
+    c = 0
+    with open(r_path, "r") as fa:
+        for seq_record in SeqIO.parse(fa, "fasta"):
+            massive[c] = str(seq_record.seq)
+            c += 1
 
-    return pre_RNA
 
+read_FASTA()
 # получаем RNA
-RNA = read_FASTA()
+RNA = massive[0]
+massive.pop(0)
 # вырезаем все интроны
 for i in massive:
     if massive[i] in RNA:
