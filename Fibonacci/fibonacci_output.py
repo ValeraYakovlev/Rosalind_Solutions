@@ -16,7 +16,7 @@ try:
             print(fib[i])
 except:
     c = 2
-    print(f'{fib[0]}, {fib[1]}, ')
+    print(f'{fib[0]}, {fib[1]}, ', end='')
     while True:
         fib.append(fib[c - 1] + fib[c - 2])
         print(fib[c], end=', ')
