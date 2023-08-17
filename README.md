@@ -63,4 +63,4 @@ As tasks are solved, codes will be added to my repository and to this table.
 | [SETO](https://rosalind.info/problems/seto/) | Introduction to Set Operations | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SETO.py) |
 | [SPEC](https://rosalind.info/problems/spec/) | Inferring Protein from Spectrum | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SPEC.py) |
 
-Solutions 42  /  105
+Solutions 43  /  105
