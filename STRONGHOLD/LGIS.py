@@ -6,17 +6,19 @@ with open(r_path, 'r') as r:
     for i in pre_arr:
         arr.append(int(i))
 
-"""arr = [5, 1, 4, 2, 3]
-n = len(arr)"""
 dp_inc = n * [1]
 prev_inc = n * [-1]
 
+# заполняем массив dp; в dp[i] лежит максимальная длина строки (с нужным условием), заканчивающася в i ом элементе
+# заполняем массив prev; в prev[i] лежит позиция символа j из которого, выполняя условие, можно попасть в i;
+# при том, что dp[j] максимально для этого
 for i in range(1, n):
     for j in range(0, i):
         if arr[i] > arr[j] and dp_inc[i] <= dp_inc[j]:
             dp_inc[i] = dp_inc[j] + 1
             prev_inc[i] = j
 
+# идем в обратном направлении по dp и prev и собираем ответ
 max_length_inc = max(dp_inc)
 last_inc = dp_inc.index(max_length_inc)
 
@@ -27,6 +29,7 @@ while True:
     if last_inc == -1:
         break
 
+# аналогично
 dp_decr = n * [1]
 prev_decr = n * [-1]
 
