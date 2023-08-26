@@ -45,6 +45,7 @@ As tasks are solved, codes will be added to my repository and to this table.
 | [LONG](https://rosalind.info/problems/long/) | Genome Assembly as Shortest Superstring | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/LONG.py) |
 | [PPER](https://rosalind.info/problems/pper/) | Partial Permutations | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/PPER.py) |
 | [PROB](https://rosalind.info/problems/prob/) | Introduction to Random Strings | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/PROB.py) |
+| [SIGN](https://rosalind.info/problems/sign/) | Enumerating Oriented Gene Orderings | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SIGN.py) |
 | [SSEQ](https://rosalind.info/problems/sseq/) | Finding a Spliced Motif | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SSEQ.py) |
 | [TRAN](https://rosalind.info/problems/tran/) | Transitions and Transversions | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/TRAN.py) |
 | [TREE](https://rosalind.info/problems/tree/) | Completing a Tree | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/TREE.py) |
@@ -53,6 +54,7 @@ As tasks are solved, codes will be added to my repository and to this table.
 | [KMER](https://rosalind.info/problems/kmer/) | k-Mer Composition | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/KMER.py) |
 | [KMP](https://rosalind.info/problems/kmp/) | Speeding Up Motif Finding | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/KMP.py) |
 | [LCSQ](https://rosalind.info/problems/lcsq/) | Finding a Shared Spliced Motif | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/LCSQ.py) |
+| [LEXV](https://rosalind.info/problems/lexv/) | Ordering Strings of Varying Length Lexicographically | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/LEXV.py) |
 | [PDST](https://rosalind.info/problems/pdst/) | Creating a Distance Matrix | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/PDST.py) |
 | [RSTR](https://rosalind.info/problems/rstr/) | Matching Random Motifs | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/RSTR.py) |
 | [SSET](https://rosalind.info/problems/sset/) | Counting Subsets | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SSET.py) |
@@ -63,4 +65,4 @@ As tasks are solved, codes will be added to my repository and to this table.
 | [SETO](https://rosalind.info/problems/seto/) | Introduction to Set Operations | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SETO.py) |
 | [SPEC](https://rosalind.info/problems/spec/) | Inferring Protein from Spectrum | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SPEC.py) |
 
-Solutions 43  /  105
+Solutions 45  /  105
