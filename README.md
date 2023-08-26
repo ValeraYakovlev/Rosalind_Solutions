@@ -42,6 +42,7 @@ As tasks are solved, codes will be added to my repository and to this table.
 | [REVP](https://rosalind.info/problems/revp/) | Locating Restriction Sites | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/REVP.py) |
 | [SPLC](https://rosalind.info/problems/splc/) | RNA Splicing | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SPLC.py) |
 | [LEXF](https://rosalind.info/problems/lexf/) | Enumerating k-mers Lexicographically | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/LEXF.py) |
+| [LGIS](https://rosalind.info/problems/lgis/) | Longest Increasing Subsequence | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/LGIS.py) |
 | [LONG](https://rosalind.info/problems/long/) | Genome Assembly as Shortest Superstring | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/LONG.py) |
 | [PPER](https://rosalind.info/problems/pper/) | Partial Permutations | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/PPER.py) |
 | [PROB](https://rosalind.info/problems/prob/) | Introduction to Random Strings | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/PROB.py) |
