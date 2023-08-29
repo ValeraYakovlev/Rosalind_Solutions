@@ -51,6 +51,7 @@ As tasks are solved, codes will be added to my repository and to this table.
 | [SSEQ](https://rosalind.info/problems/sseq/) | Finding a Spliced Motif | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SSEQ.py) |
 | [TRAN](https://rosalind.info/problems/tran/) | Transitions and Transversions | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/TRAN.py) |
 | [TREE](https://rosalind.info/problems/tree/) | Completing a Tree | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/TREE.py) |
+| [CAT](https://rosalind.info/problems/cat/) | Catalan Numbers and RNA Secondary Structures | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/CAT.py) |
 | [CORR](https://rosalind.info/problems/corr/) | Error Correction in Reads | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/CORR.py) |
 | [INOD](https://rosalind.info/problems/inod/) | Counting Phylogenetic Ancestors | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/INOD.py) |
 | [KMER](https://rosalind.info/problems/kmer/) | k-Mer Composition | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/KMER.py) |
@@ -64,8 +65,9 @@ As tasks are solved, codes will be added to my repository and to this table.
 | [ASPC](https://rosalind.info/problems/aspc/) | Introduction to Alternative Splicing | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/ASPC.py) |
 | [EDIT](https://rosalind.info/problems/edit/) | Edit Distance | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/EDIT.py) |
 | [EVAL](https://rosalind.info/problems/eval/) | Expected Number of Restriction Sites | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/EVAL.py) |
+| [MOTZ](https://rosalind.info/problems/motz/) | Motzkin Numbers and RNA Secondary Structures | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/MOTZ.py) |
 | [SCSP](https://rosalind.info/problems/scsp/) | Interleaving Two Motifs | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SCSP.py) |
 | [SETO](https://rosalind.info/problems/seto/) | Introduction to Set Operations | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SETO.py) |
 | [SPEC](https://rosalind.info/problems/spec/) | Inferring Protein from Spectrum | [Solution](https://github.com/ValeraYakovlev/Rosalind_Solutions/blob/main/STRONGHOLD/SPEC.py) |
 
-Solutions 48  /  105
+Solutions 50  /  105
