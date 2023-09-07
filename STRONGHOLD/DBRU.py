@@ -34,4 +34,3 @@ with open(w_path, 'w') as w:
     for i in ans:
         w.write('(' + i[0] + ', ' + i[1] + ')' + '\n')
 
-
